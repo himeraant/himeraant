@@ -1,7 +1,7 @@
 ## Hi there 👋 About Me:
 I am a backend developer from Ukraine, currently based in Salerno, Italy.
 Here you can see some of my personal projects / study I have worked on
-Currently studying at ![Zhytomyr Polytechnic State University](https://ztu.edu.ua/en). International student at ![University of Salerno]{https://web.unisa.it/en/university}
+Currently studying at ![Zhytomyr Polytechnic State University](https://ztu.edu.ua/en). International student at ![University of Salerno](https://web.unisa.it/en/university)
 Open to new oppotrunities.
 
 - I’m currently working on Webhook Relay project
