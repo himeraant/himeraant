@@ -2,15 +2,12 @@
 I am a backend developer from Ukraine, currently based in Salerno, Italy.
 Here you can see some of my personal projects / study I have worked on
 Currently studying at [Zhytomyr Polytechnic State University](https://ztu.edu.ua/en). International student at [University of Salerno](https://web.unisa.it/en/university)
-Open to new oppotrunities.
 
 - I’m currently working on Webhook Relay project
 - I’m currently learning NestJS, Redis, deepening my understanding of complex backend systems.
 
-
 ## 🌐 Socials:
 himeraant@gmail.com
-https://www.instagram.com/himera.anton/
 https://www.linkedin.com/in/anton-himera-643823258
 
 ## 💻 Tech Stack:
